@@ -9,7 +9,7 @@ export default function Portfolio() {
                     <div id="portfolio-single-holder" />
                     <div className="portfolio-wrapper">
                         <div className="d-flex align-items-center mb-4 gsap-reveal gsap-reveal-filter">
-                            <h2 className="mr-auto heading-h2"><span className="gsap-reveal">Portfolio</span></h2>
+                            <h2 className="mr-auto heading-h2"><span className="gsap-reveal">Project</span></h2>
                             {/* <a href="#" class="text-white js-filter d-inline-block d-lg-none">Filter</a>
         
         <div class="filter-wrap">
