@@ -55,11 +55,15 @@ export default function Contact() {
                             <div className="contact-info-v1">
                                 <div className="gsap-reveal d-block">
                                     <span className="d-block contact-info-label">Email</span>
-                                    <p className="contact-info-val">izukachibuzor4@gmail.com</p>
+                                    <a href="mailto:izukachibuzor4@gmail.com" className="contact-info-val">izukachibuzor4@gmail.com</a>
                                 </div>
                                 <div className="gsap-reveal d-block">
                                     <span className="d-block contact-info-label">Phone</span>
                                     <a href="tel:+2349053593165" className="contact-info-val">09053593165</a>
+                                </div>
+                                <div className="gsap-reveal d-block">
+                                    <span className="d-block contact-info-label">Phone</span>
+                                    <a href="tel:+2348102449681" className="contact-info-val">08102449681</a>
                                 </div>
                                 <div className="gsap-reveal d-block">
                                     <span className="d-block contact-info-label">Address</span>

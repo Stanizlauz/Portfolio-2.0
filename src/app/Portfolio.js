@@ -23,8 +23,8 @@ export default function Portfolio() {
         </div> */}
                         </div>
                         <div id="posts" className="row gutter-isotope-item">
-                            <div className="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
-                                <a href="portfolio-single-1.html" className="portfolio-item ajax-load-page isotope-item gsap-reveal-img" data-id={1}>
+                            <div className="item web packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+                                <a href="portfolio-single-1.html" className="portfolio-item isotope-item gsap-reveal-img" data-id={1}>
                                     <div className="overlay">
                                         <span className="wrap-icon icon-link2" />
                                         <div className="portfolio-item-content">
@@ -48,7 +48,7 @@ export default function Portfolio() {
                                 </a>
                             </div>
                             <div className="item branding packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
-                                <a href="images/work_3_md.jpg" className="portfolio-item isotope-item gsap-reveal-img ajax-load-page" data-id={4}>
+                                <a href="images/work_3_md.jpg" className="portfolio-item isotope-item gsap-reveal-img" data-id={4}>
                                     <div className="overlay">
                                         <span className="wrap-icon icon-link2" />
                                         <div className="portfolio-item-content">
@@ -72,7 +72,7 @@ export default function Portfolio() {
                                 </a>
                             </div>
                             <div className="item illustration packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
-                                <a href="images/work_5_md.jpg" className="portfolio-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Shoe Rebranding">
+                                <a href="images/work_5_md.jpg" className="portfolio-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Photoshop">
                                     <div className="overlay">
                                         <span className="wrap-icon icon-photo2" />
                                         <div className="portfolio-item-content">

@@ -33,7 +33,7 @@ export default function Nav() {
                             </ul>
                         </div>
                         <div className="site-logo pos-absolute">
-                            <a href="index.html" className="unslate_co--site-logo">Welcome<span>.</span></a>
+                            <a href="#contact-section" className="unslate_co--site-logo">Contact Me!<span>.</span></a>
                         </div>
                         <div className="col-md-5 text-right text-lg-left">
                             <ul className="site-nav-ul js-clone-nav text-left d-none d-lg-inline-block">
