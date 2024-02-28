@@ -44,7 +44,7 @@ export default function Nav() {
                                 <li><a href="#contact-section" className="nav-link">Contact</a></li>
                             </ul>
                             <ul className="site-nav-ul-none-onepage text-right d-inline-block d-lg-none">
-                                <li><a href="#" className="js-menu-toggle">Menu</a></li>
+                                <li><a href="/" className="js-menu-toggle">Menu</a></li>
                             </ul>
                         </div>
                     </div>
