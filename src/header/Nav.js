@@ -53,7 +53,7 @@ export default function Nav() {
             {/* END nav */}
 
 
-            <div className="cover-v1 jarallax" style={{ backgroundImage: 'url("images/cover_bg_2.jpg")' }} id="home-section">
+            <div className="cover-v1 jarallax" style={{ backgroundImage: 'url("images/bobbybg.jpg")' }} id="home-section">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-md-7 mx-auto text-center">

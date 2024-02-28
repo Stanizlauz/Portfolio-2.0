@@ -14,7 +14,7 @@ export default function About() {
                     <div className="row mt-5 justify-content-between">
                         <div className="col-lg-7 mb-5 mb-lg-0">
                             <figure className="dotted-bg gsap-reveal-img ">
-                                <img src="images/about_me_pic2.jpg" alt="" className="img-fluid" />
+                                <img src="images/art2.jpg" alt="" className="img-fluid" />
                             </figure>
                         </div>
                         <div className="col-lg-4 pr-lg-5">

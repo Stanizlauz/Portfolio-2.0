@@ -83,6 +83,18 @@ export default function Portfolio() {
                                     <img src="images/work_5_md.jpg" className="lazyload  img-fluid" alt="Images" />
                                 </a>
                             </div>
+                            <div className="item illustration packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+                                <a href="images/work_5_md.jpg" className="portfolio-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Shoe Rebranding">
+                                    <div className="overlay">
+                                        <span className="wrap-icon icon-photo2" />
+                                        <div className="portfolio-item-content">
+                                            <h3>Photoshop</h3>
+                                            <p>Face Slice</p>
+                                        </div>
+                                    </div>
+                                    <img src="images/izu.jpg" className="lazyload  img-fluid" alt="Images" />
+                                </a>
+                            </div>
                             <div className="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
                                 <a href="images/work_6_md.jpg" className="portfolio-item ajax-load-page item-portrait isotope-item gsap-reveal-img" data-id={2}>
                                     <div className="overlay">
@@ -107,6 +119,18 @@ export default function Portfolio() {
                                     <img src="images/work_7_a_md.jpg" className="lazyload  img-fluid" alt="Images" />
                                 </a>
                             </div>
+                            <div className="item branding packaging col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+                                <a href="images/work_7_a_md.jpg" className="portfolio-item item-portrait isotope-item gsap-reveal-img " data-fancybox="gallery" data-caption="Modern Building">
+                                    <div className="overlay">
+                                        <span className="wrap-icon icon-photo2" />
+                                        <div className="portfolio-item-content">
+                                            <h3>Photoshop</h3>
+                                            <p>Face Slice.</p>
+                                        </div>
+                                    </div>
+                                    <img src="images/bobby.jpg" className="lazyload  img-fluid" alt="Images" />
+                                </a>
+                            </div>
                             <div className="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
                                 <a href="images/work_8_md.jpg" className="portfolio-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Showreel 2019">
                                     <div className="overlay">
@@ -119,6 +143,42 @@ export default function Portfolio() {
                                     <img src="images/work_8_md.jpg" className="lazyload  img-fluid" alt="Images" />
                                 </a>
                             </div>
+                            <div className="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+                                <a href="images/work_8_md.jpg" className="portfolio-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Showreel 2019">
+                                    <div className="overlay">
+                                        <span className="wrap-icon icon-play_circle_filled" />
+                                        <div className="portfolio-item-content">
+                                            <h3>Photoshop</h3>
+                                            <p>Model</p>
+                                        </div>
+                                    </div>
+                                    <img src="images/EDITH.jpg" className="lazyload  img-fluid" alt="Images" />
+                                </a>
+                            </div>
+                            <div className="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+                                <a href="images/work_8_md.jpg" className="portfolio-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Showreel 2019">
+                                    <div className="overlay">
+                                        <span className="wrap-icon icon-play_circle_filled" />
+                                        <div className="portfolio-item-content">
+                                            <h3>Photoshop</h3>
+                                            <p>Poster</p>
+                                        </div>
+                                    </div>
+                                    <img src="images/art2.jpg" className="lazyload  img-fluid" alt="Images" />
+                                </a>
+                            </div>
+                            <div className="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+                                <a href="images/work_8_md.jpg" className="portfolio-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Showreel 2019">
+                                    <div className="overlay">
+                                        <span className="wrap-icon icon-play_circle_filled" />
+                                        <div className="portfolio-item-content">
+                                            <h3>Photoshop</h3>
+                                            <p>Drip</p>
+                                        </div>
+                                    </div>
+                                    <img src="images/drip.jpg" className="lazyload  img-fluid" alt="Images" />
+                                </a>
+                            </div>
                             <div className="item web illustration col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
                                 <a href="images/work_9_a_md.jpg" className="portfolio-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Render Packaging">
                                     <div className="overlay">
@@ -129,6 +189,18 @@ export default function Portfolio() {
                                         </div>
                                     </div>
                                     <img src="images/work_9_a_md.jpg" className="lazyload  img-fluid" alt="Images" />
+                                </a>
+                            </div>
+                            <div className="item web illustration col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+                                <a href="images/work_9_a_md.jpg" className="portfolio-item isotope-item gsap-reveal-img" data-fancybox="gallery" data-caption="Render Packaging">
+                                    <div className="overlay">
+                                        <span className="wrap-icon icon-photo2" />
+                                        <div className="portfolio-item-content">
+                                            <h3>Photoshop</h3>
+                                            <p>Cards.</p>
+                                        </div>
+                                    </div>
+                                    <img src="images/deihe.jpg" className="lazyload  img-fluid" alt="Images" />
                                 </a>
                             </div>
                         </div>
